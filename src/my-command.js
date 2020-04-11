@@ -4,8 +4,8 @@ import sketch from 'sketch'
 
 const parseString = require('xml2js').parseString;
 
-const ARTBOARD_WIDTH = 400;
-const ARTBOARD_HEIGHT = 400;
+const ARTBOARD_WIDTH = 375;
+const ARTBOARD_HEIGHT = 812;
 const MARGIN_X = 20;
 const MARGIN_Y = 50;
 
